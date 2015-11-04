@@ -1,2 +1,2 @@
 # courses
-Online courses assignments
+Online Courses Assignments
